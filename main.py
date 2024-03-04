@@ -65,4 +65,4 @@ def info(message):
 
 bot.polling(none_stop=True)
 
-x=1
+x=2
